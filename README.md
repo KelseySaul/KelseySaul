@@ -46,7 +46,7 @@ A fleet-tracking and internal ride-request system built on a NestJS backend, Pos
 **Mobile app**
 
 <p align="center">
-  <img src="carpool (1).png" alt="Carpool trip notifications on mobile" width="28%" />
+  <img src="carpool (1).png" alt="Carpool trip notifications on mobile" width="28%" height="30%"/>
   <img src="carpool (4).png" alt="Carpool request queue on mobile" width="28%" />
   <img src="carpool (5).png" alt="Carpool user management on mobile" width="28%" />
 </p>
