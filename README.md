@@ -37,11 +37,11 @@ Venus is the customer-facing brand of the Fleetpro fleet management platform: a 
 A fleet-tracking and internal ride-request system built on a NestJS backend, PostgreSQL with PostGIS for spatial queries, Redis for caching, and Traccar Cloud for telematics — with dedicated web and mobile codebases in a structured monorepo.
 
 <p align="center">
-  <img src="carpool (1).png" alt="Venus live map tracking 600+ vehicles across Kenya" width="49%" />
-   <img src="carpool (2)" alt="Venus live map tracking 600+ vehicles across Kenya" width="49%" />
-   <img src="carpool (3)" alt="Venus live map tracking 600+ vehicles across Kenya" width="49%" />
-  <img src="carpool (4)" alt="Venus dashboard with fleet KM summary and mileage breakdown" width="49%" />
-  <img src="carpool (5)" alt="Venus live map tracking 600+ vehicles across Kenya" width="49%" />
+  <img src="carpool (1).png" alt="Venus live map tracking 600+ vehicles across Kenya" width="30%" />
+   <img src="carpool (2).png" alt="Venus live map tracking 600+ vehicles across Kenya" width="30%" />
+   <img src="carpool (3).png" alt="Venus live map tracking 600+ vehicles across Kenya" width="30%" />
+  <img src="carpool (4).png" alt="Venus dashboard with fleet KM summary and mileage breakdown" width="30%" />
+  <img src="carpool (5).png" alt="Venus live map tracking 600+ vehicles across Kenya" width="30%" />
 </p>
 
 ####  Zipp — Payments Super App
