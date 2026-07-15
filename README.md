@@ -32,16 +32,23 @@ Venus is the customer-facing brand of the Fleetpro fleet management platform: a 
   <img src="venus-dashboard.png" alt="Venus dashboard with fleet KM summary and mileage breakdown" width="49%" />
 </p>
 
-####  Carpool — Internal Ride & Fleet System
+#### Carpool — Internal Ride & Fleet System
 
 A fleet-tracking and internal ride-request system built on a NestJS backend, PostgreSQL with PostGIS for spatial queries, Redis for caching, and Traccar Cloud for telematics — with dedicated web and mobile codebases in a structured monorepo.
 
+**Web dashboard**
+
 <p align="center">
-  <img src="carpool (1).png" alt="Venus live map tracking 600+ vehicles across Kenya" width="30%" />
-   <img src="carpool (2).png" alt="Venus live map tracking 600+ vehicles across Kenya" width="30%" />
-   <img src="carpool (3).png" alt="Venus live map tracking 600+ vehicles across Kenya" width="30%" />
-  <img src="carpool (4).png" alt="Venus dashboard with fleet KM summary and mileage breakdown" width="30%" />
-  <img src="carpool (5).png" alt="Venus live map tracking 600+ vehicles across Kenya" width="30%" />
+  <img src="carpool (2).png" alt="Carpool fleet vehicles dashboard with live map" width="49%" />
+  <img src="carpool (3).png" alt="Carpool requests overview and reports" width="49%" />
+</p>
+
+**Mobile app**
+
+<p align="center">
+  <img src="carpool (1).png" alt="Carpool trip notifications on mobile" width="28%" />
+  <img src="carpool (4).png" alt="Carpool request queue on mobile" width="28%" />
+  <img src="carpool (5).png" alt="Carpool user management on mobile" width="28%" />
 </p>
 
 ####  Zipp — Payments Super App
