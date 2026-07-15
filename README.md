@@ -28,8 +28,8 @@ I design and build products end-to-end — from Figma prototypes to production R
 Venus is the customer-facing brand of the Fleetpro fleet management platform: a real-time system for tracking and managing 600+ vehicles, devices, and drivers. I lead the design and development of "Venus OS" — its cross-platform UI — including the live map with geofencing and POIs, fleet KM analytics, fuel/video/driver hubs, and **Venus AI**, an integrated assistant that lets operators query vehicle statuses in natural language. *(Closed source — happy to walk through the architecture.)*
 
 <p align="center">
-  <img src="assets/venus-livemap.png" alt="Venus live map tracking 600+ vehicles across Kenya" width="49%" />
-  <img src="assets/venus-dashboard.png" alt="Venus dashboard with fleet KM summary and mileage breakdown" width="49%" />
+  <img src="venus-livemap.png" alt="Venus live map tracking 600+ vehicles across Kenya" width="49%" />
+  <img src="venus-dashboard.png" alt="Venus dashboard with fleet KM summary and mileage breakdown" width="49%" />
 </p>
 
 ####  Carpool — Internal Ride & Fleet System
