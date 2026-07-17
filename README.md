@@ -63,7 +63,8 @@ Full-stack student housing app with swipe-to-match discovery and automated in-ap
 
 Web and mobile recipe platform celebrating traditional African cuisine — database-driven with a custom relational schema in Supabase and heavily optimized image rendering.
 
-####  Kenya Science Leadership Programme (https://www.kenyascienceleadershipprogram.co.ke/)
+
+####  [Kenya Science Leadership Programme](https://www.kenyascienceleadershipprogram.co.ke/)
 
 Web revamp and public-facing digital media assets for a national science leadership programme.
 
