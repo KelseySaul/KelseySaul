@@ -204,6 +204,15 @@ flowchart TB
 
 </details>
 
+####  [Kenya Science Leadership Programme](https://www.kenyascienceleadershipprogram.co.ke/)
+
+Web revamp and public-facing digital media assets for a national science leadership programme. 
+
+<p align="center">
+  <img src="Screenshot 2026-07-29 153756.png" alt="Cirqle Labs Landing Showcase 1" width="49%" />
+  <img src="Screenshot 2026-07-29 153851.png" alt="Cirqle Labs Landing Showcase 2" width="49%" />
+</p>
+
 ####  [Home Matchmaker](https://realestate-nu-gray.vercel.app/)
 
 Full-stack student housing app with swipe-to-match discovery and automated in-app payments via the M-Pesa Daraja API (React, Node.js, Supabase).
@@ -212,14 +221,7 @@ Full-stack student housing app with swipe-to-match discovery and automated in-ap
 
 Web and mobile recipe platform celebrating traditional African cuisine — database-driven with a custom relational schema in Supabase and heavily optimized image rendering.
 
-####  [Kenya Science Leadership Programme](https://www.kenyascienceleadershipprogram.co.ke/)
 
-Web revamp and public-facing digital media assets for a national science leadership programme. Screenshot 2026-07-29 153756.png
-
-<p align="center">
-  <img src="Screenshot 2026-07-29 153756.png" alt="Cirqle Labs Landing Showcase 1" width="49%" />
-  <img src="Screenshot 2026-07-29 153851.png" alt="Cirqle Labs Landing Showcase 2" width="49%" />
-</p>
 
 ---
 
