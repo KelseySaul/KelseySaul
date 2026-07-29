@@ -214,7 +214,12 @@ Web and mobile recipe platform celebrating traditional African cuisine — datab
 
 ####  [Kenya Science Leadership Programme](https://www.kenyascienceleadershipprogram.co.ke/)
 
-Web revamp and public-facing digital media assets for a national science leadership programme.
+Web revamp and public-facing digital media assets for a national science leadership programme. Screenshot 2026-07-29 153756.png
+
+<p align="center">
+  <img src="Screenshot 2026-07-29 153756.png" alt="Cirqle Labs Landing Showcase 1" width="49%" />
+  <img src="Screenshot 2026-07-29 153851.png" alt="Cirqle Labs Landing Showcase 2" width="49%" />
+</p>
 
 ---
 
