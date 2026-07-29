@@ -55,9 +55,21 @@ A fleet-tracking and internal ride-request system built on a NestJS backend, Pos
 
 Official web presence and digital branding for Trackalways Africa. Designed and developed to showcase enterprise fleet telematics, fuel management, and AI-driven tracking solutions across East Africa with a sleek, high-conversion UI and responsive performance.
 
+<p align="center">
+  <img src="carpool (2).png" alt="Carpool fleet vehicles dashboard with live map" width="49%" />
+  <img src="carpool (3).png" alt="Carpool requests overview and reports" width="49%" />
+</p>
+
+
 ####  [Cirqle Labs](https://cirqlelabs.vercel.app/)
 
 Modern design studio and software venture landing page built with high-impact micro-interactions, responsive layout systems, and modern UI engineering standards to showcase product design and full-stack development capabilities.
+
+<p align="center">
+  <img src="carpool (2).png" alt="Carpool fleet vehicles dashboard with live map" width="49%" />
+  <img src="carpool (3).png" alt="Carpool requests overview and reports" width="49%" />
+</p>
+
 
 ####  Zipp — Payments Super App
 
