@@ -1,4 +1,8 @@
-# Hi, I'm Kelsey Saul 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kelsey+Saul!+👋;Lead+UI%2FUX+Designer+%26+Full-Stack+Developer;Building+Fleet%2C+Fintech+%26+Payments+Tools" alt="Typing SVG" />
+  </a>
+</p>
 
 ### Lead UI/UX Designer & Full-Stack Web Developer at Trackalways Africa
 
@@ -8,22 +12,26 @@ I design and build products end-to-end — from Figma prototypes to production R
 
 ---
 
-###  Tech Stack
+### 🛠️ Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend & Design** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![M-Pesa Daraja](https://img.shields.io/badge/M--Pesa_Daraja_API-4CAF50?style=for-the-badge&logo=safaricom&logoColor=white) |
-| **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=00C485) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-| **Mobile** | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white) |
-| **Maps & Telematics** | ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white) ![Traccar](https://img.shields.io/badge/Traccar_Cloud-1E88E5?style=for-the-badge&logo=googlemaps&logoColor=white) |
-| **Deployment & Tools** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=00C485" />
+  <img src="https://img.shields.io/badge/M--Pesa_Daraja_API-4CAF50?style=for-the-badge&logo=safaricom&logoColor=white" />
+</p>
 
 ---
 
 ### 📁 Projects
 
-####  [Venus — Fleet Management Platform](https://venus.trackalways.cloud/live-map)
+#### [Venus — Fleet Management Platform](https://venus.trackalways.cloud/live-map)
 
 Venus is the customer-facing brand of the Fleetpro fleet management platform: a real-time system for tracking and managing 600+ vehicles, devices, and drivers. I lead the design and development of "Venus OS" — its cross-platform UI — including the live map with geofencing and POIs, fleet KM analytics, fuel/video/driver hubs, and **Venus AI**, an integrated assistant that lets operators query vehicle statuses in natural language. *(Closed source — happy to walk through the architecture.)*
 
@@ -51,55 +59,54 @@ A fleet-tracking and internal ride-request system built on a NestJS backend, Pos
   <img src="carpool (5).png" alt="Carpool user management on mobile" width="28%" />
 </p>
 
-####  [Trackalways Africa](https://trackalwaysafrica.com/)
+#### [Trackalways Africa](https://trackalwaysafrica.com/)
 
 Official web presence and digital branding for Trackalways Africa. Designed and developed to showcase enterprise fleet telematics, fuel management, and AI-driven tracking solutions across East Africa with a sleek, high-conversion UI and responsive performance.
 
 <p align="center">
-  <img src="carpool (2).png" alt="Carpool fleet vehicles dashboard with live map" width="49%" />
-  <img src="carpool (3).png" alt="Carpool requests overview and reports" width="49%" />
+  <img src="Screenshot 2026-07-29 150206.png" alt="Trackalways Africa Web Showcase 1" width="49%" />
+  <img src="Screenshot 2026-07-29 150309.png" alt="Trackalways Africa Web Showcase 2" width="49%" />
 </p>
 
-
-####  [Cirqle Labs](https://cirqlelabs.vercel.app/)
+#### [Cirqle Labs](https://cirqlelabs.vercel.app/)
 
 Modern design studio and software venture landing page built with high-impact micro-interactions, responsive layout systems, and modern UI engineering standards to showcase product design and full-stack development capabilities.
 
 <p align="center">
-  <img src="carpool (2).png" alt="Carpool fleet vehicles dashboard with live map" width="49%" />
-  <img src="carpool (3).png" alt="Carpool requests overview and reports" width="49%" />
+  <img src="Screenshot 2026-07-29 150519.png" alt="Cirqle Labs Landing Showcase 1" width="49%" />
+  <img src="Screenshot 2026-07-29 150546.png" alt="Cirqle Labs Landing Showcase 2" width="49%" />
 </p>
 
-
-####  Zipp — Payments Super App
+#### Zipp — Payments Super App
 
 A Kenyan payments super app concept with a bold yellow/black/deep-blue brand: send to Zipp users or M-Pesa, Paybill/Till, QR payments, bills, travel booking, and **Palm Pay** palm-vein biometric authentication as its core differentiator. Designed mobile-first with Kotlin and Jetpack Compose in mind.
 
-####  [Home Matchmaker](https://realestate-nu-gray.vercel.app/)
+#### [Home Matchmaker](https://realestate-nu-gray.vercel.app/)
 
 Full-stack student housing app with swipe-to-match discovery and automated in-app payments via the M-Pesa Daraja API (React, Node.js, Supabase).
 
-####  [AfriFood](https://afrifood.vercel.app/)
+#### [AfriFood](https://afrifood.vercel.app/)
 
 Web and mobile recipe platform celebrating traditional African cuisine — database-driven with a custom relational schema in Supabase and heavily optimized image rendering.
 
-####  [Kenya Science Leadership Programme](https://www.kenyascienceleadershipprogram.co.ke/)
+#### [Kenya Science Leadership Programme](https://www.kenyascienceleadershipprogram.co.ke/)
 
 Web revamp and public-facing digital media assets for a national science leadership programme.
 
 ---
 
-###  About Me
+### 🏀 About Me
 
--  Competitive basketball player when I'm away from the keyboard
--  BSc in Business Information Technology, Kabarak University
--  Certified in Cisco Networking & Cybersecurity (CCNA) and IBM Data & AI Fundamentals
--  Ask me about UI/UX systems, React state management, M-Pesa integrations, or Kotlin/Compose workflows
+- Competitive basketball player when I'm away from the keyboard
+- BSc in Business Information Technology, Kabarak University
+- Certified in Cisco Networking & Cybersecurity (CCNA) and IBM Data & AI Fundamentals
+- Ask me about UI/UX systems, React state management, M-Pesa integrations, or Kotlin/Compose workflows
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KelseySaul&show_icons=true&theme=tokyonight" alt="Kelsey's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KelseySaul&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Kelsey's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelseySaul&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
