@@ -40,7 +40,7 @@
 
 ### 📁 Projects
 
-#### 🛰️ [Venus — Fleet Management Platform](https://venus.trackalways.cloud/live-map)
+####  [Venus — Fleet Management Platform](https://venus.trackalways.cloud/live-map)
 
 Venus is the customer-facing brand of the Fleetpro fleet management platform: a real-time system for tracking and managing 600+ vehicles, devices, and drivers. I lead the design and development of "Venus OS" — its cross-platform UI — including the live map with geofencing and POIs, fleet KM analytics, fuel/video/driver hubs, and **Venus AI**, an integrated assistant that lets operators query vehicle statuses in natural language. *(Closed source — happy to walk through the architecture.)*
 
@@ -50,7 +50,7 @@ Venus is the customer-facing brand of the Fleetpro fleet management platform: a 
 </p>
 
 <details>
-<summary><b>🏗️ Architecture Overview</b></summary>
+<summary><b> Architecture Overview</b></summary>
 
 <br/>
 
@@ -91,7 +91,7 @@ flowchart LR
 
 </details>
 
-#### 🚙 [Carpool — Internal Ride & Fleet System](https://carpool.trackalways.cloud)
+####  [Carpool — Internal Ride & Fleet System](https://carpool.trackalways.cloud)
 
 A fleet-tracking and internal ride-request system built on a NestJS backend, PostgreSQL with PostGIS for spatial queries, Redis for caching, and Traccar Cloud for telematics — with dedicated web and mobile codebases in a structured monorepo.
 
@@ -111,7 +111,7 @@ A fleet-tracking and internal ride-request system built on a NestJS backend, Pos
 </p>
 
 <details>
-<summary><b>🏗️ Architecture Overview</b></summary>
+<summary><b> Architecture Overview</b></summary>
 
 <br/>
 
@@ -146,7 +146,7 @@ flowchart TB
 
 </details>
 
-#### 🌍 [Trackalways Africa](https://trackalwaysafrica.com/)
+####  [Trackalways Africa](https://trackalwaysafrica.com/)
 
 Official web presence and digital branding for Trackalways Africa. Designed and developed to showcase enterprise fleet telematics, fuel management, and AI-driven tracking solutions across East Africa with a sleek, high-conversion UI and responsive performance.
 
@@ -155,7 +155,7 @@ Official web presence and digital branding for Trackalways Africa. Designed and 
   <img src="Screenshot 2026-07-29 150309.png" alt="Trackalways Africa Web Showcase 2" width="49%" />
 </p>
 
-#### 🔵 [Cirqle Labs](https://cirqlelabs.vercel.app/)
+####  [Cirqle Labs](https://cirqlelabs.vercel.app/)
 
 Modern design studio and software venture landing page built with high-impact micro-interactions, responsive layout systems, and modern UI engineering standards to showcase product design and full-stack development capabilities.
 
@@ -164,12 +164,12 @@ Modern design studio and software venture landing page built with high-impact mi
   <img src="Screenshot 2026-07-29 150546.png" alt="Cirqle Labs Landing Showcase 2" width="49%" />
 </p>
 
-#### ⚡ Zipp — Payments Super App
+####  Zipp — Payments Super App
 
 A Kenyan payments super app concept with a bold yellow/black/deep-blue brand: send to Zipp users or M-Pesa, Paybill/Till, QR payments, bills, travel booking, and **Palm Pay** palm-vein biometric authentication as its core differentiator. Designed mobile-first with Kotlin and Jetpack Compose in mind.
 
 <details>
-<summary><b>🏗️ Architecture Overview</b></summary>
+<summary><b> Architecture Overview</b></summary>
 
 <br/>
 
@@ -204,21 +204,21 @@ flowchart TB
 
 </details>
 
-#### 🏠 [Home Matchmaker](https://realestate-nu-gray.vercel.app/)
+####  [Home Matchmaker](https://realestate-nu-gray.vercel.app/)
 
 Full-stack student housing app with swipe-to-match discovery and automated in-app payments via the M-Pesa Daraja API (React, Node.js, Supabase).
 
-#### 🍲 [AfriFood](https://afrifood.vercel.app/)
+####  [AfriFood](https://afrifood.vercel.app/)
 
 Web and mobile recipe platform celebrating traditional African cuisine — database-driven with a custom relational schema in Supabase and heavily optimized image rendering.
 
-#### 🔬 [Kenya Science Leadership Programme](https://www.kenyascienceleadershipprogram.co.ke/)
+####  [Kenya Science Leadership Programme](https://www.kenyascienceleadershipprogram.co.ke/)
 
 Web revamp and public-facing digital media assets for a national science leadership programme.
 
 ---
 
-### 🙋 About Me
+###  About Me
 
 - 🏀 Competitive basketball player when I'm away from the keyboard
 - 🎓 BSc in Business Information Technology, Kabarak University
