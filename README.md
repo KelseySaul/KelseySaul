@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I design and build products end-to-end — from Figma prototypes to production React, NestJS, and Kotlin apps — with a focus on fleet-tracking, fintech, and payments tools for East African users.
+  I design and build products end-to-end  from Figma prototypes to production React, NestJS, and Kotlin apps  with a focus on fleet-tracking, fintech, and payments tools for East African users.
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -42,7 +42,7 @@
 
 ####  [Venus — Fleet Management Platform](https://venus.trackalways.cloud/live-map)
 
-Venus is the customer-facing brand of the Fleetpro fleet management platform: a real-time system for tracking and managing 600+ vehicles, devices, and drivers. I lead the design and development of "Venus OS" — its cross-platform UI — including the live map with geofencing and POIs, fleet KM analytics, fuel/video/driver hubs, and **Venus AI**, an integrated assistant that lets operators query vehicle statuses in natural language. *(Closed source — happy to walk through the architecture.)*
+Venus is the customer-facing brand of the Fleetpro fleet management platform: a real-time system for tracking and managing 600+ vehicles, devices, and drivers. I lead the design and development of "Venus OS" its cross-platform UI  including the live map with geofencing and POIs, fleet KM analytics, fuel/video/driver hubs, and **Venus AI**, an integrated assistant that lets operators query vehicle statuses in natural language. *(Closed source — happy to walk through the architecture.)*
 
 <p align="center">
   <img src="venus-livemap.png" alt="Venus live map tracking 600+ vehicles across Kenya" width="49%" />
@@ -93,7 +93,7 @@ flowchart LR
 
 ####  [Carpool — Internal Ride & Fleet System](https://carpool.trackalways.cloud)
 
-A fleet-tracking and internal ride-request system built on a NestJS backend, PostgreSQL with PostGIS for spatial queries, Redis for caching, and Traccar Cloud for telematics — with dedicated web and mobile codebases in a structured monorepo.
+A fleet-tracking and internal ride-request system built on a NestJS backend, PostgreSQL with PostGIS for spatial queries, Redis for caching, and Traccar Cloud for telematics  with dedicated web and mobile codebases in a structured monorepo.
 
 **Web dashboard**
 
