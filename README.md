@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I design and build products end-to-end — from Figma prototypes to production React, NestJS, and Kotlin apps — with a focus on fleet-tracking, fintech, and payments tools for East African users.
+  I design and build products end-to-end  from Figma prototypes to production React, NestJS, and Kotlin apps  with a focus on fleet-tracking, fintech, and payments tools for East African users.
 </p>
 
 <p align="center">
