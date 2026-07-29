@@ -51,6 +51,14 @@ A fleet-tracking and internal ride-request system built on a NestJS backend, Pos
   <img src="carpool (5).png" alt="Carpool user management on mobile" width="28%" />
 </p>
 
+####  [Trackalways Africa](https://trackalwaysafrica.com/)
+
+Official web presence and digital branding for Trackalways Africa. Designed and developed to showcase enterprise fleet telematics, fuel management, and AI-driven tracking solutions across East Africa with a sleek, high-conversion UI and responsive performance.
+
+####  [Cirqle Labs](https://cirqlelabs.vercel.app/)
+
+Modern design studio and software venture landing page built with high-impact micro-interactions, responsive layout systems, and modern UI engineering standards to showcase product design and full-stack development capabilities.
+
 ####  Zipp — Payments Super App
 
 A Kenyan payments super app concept with a bold yellow/black/deep-blue brand: send to Zipp users or M-Pesa, Paybill/Till, QR payments, bills, travel booking, and **Palm Pay** palm-vein biometric authentication as its core differentiator. Designed mobile-first with Kotlin and Jetpack Compose in mind.
@@ -62,7 +70,6 @@ Full-stack student housing app with swipe-to-match discovery and automated in-ap
 ####  [AfriFood](https://afrifood.vercel.app/)
 
 Web and mobile recipe platform celebrating traditional African cuisine — database-driven with a custom relational schema in Supabase and heavily optimized image rendering.
-
 
 ####  [Kenya Science Leadership Programme](https://www.kenyascienceleadershipprogram.co.ke/)
 
