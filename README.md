@@ -19,40 +19,37 @@
   </a>
 </p>
 
-###  Tech Stack
+###  Tech Stack
 
-Category
 
-Technologies
 
-Frontend & Design
+| Category | Technologies |
 
-   
+| :--- | :--- |
 
-Backend & APIs
+| **Frontend & Design** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
-  
+| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![M-Pesa Daraja](https://img.shields.io/badge/M--Pesa_Daraja_API-4CAF50?style=for-the-badge&logo=safaricom&logoColor=white) |
 
-Databases & Caching
+| **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=00C485) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
 
-   
+| **Mobile** | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white) |
 
-Mobile
+| **Maps & Telematics** | ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white) ![Traccar](https://img.shields.io/badge/Traccar_Cloud-1E88E5?style=for-the-badge&logo=googlemaps&logoColor=white) |
 
- 
+| **Deployment & Tools** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
-Maps & Telematics
 
- 
-
-Deployment & Tools
-
-  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,figma,nodejs,nestjs,postgres,supabase,redis,kotlin,vercel,git,github&perline=13" alt="Animated tech stack" />
+
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,figma,nodejs,nestjs,postgres,supabase,redis,kotlin,vercel,git,github&perline=13" alt="Animated tech stack" />
+
 </p>
 
+
+
+---
 📁 Projects
 
 ####  Venus — Fleet Management Platform
