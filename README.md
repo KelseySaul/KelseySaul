@@ -52,7 +52,7 @@
 ---
 📁 Projects
 
-####  Venus — Fleet Management Platform
+####  [Venus — Fleet Management Platform](https://venus.trackalways.cloud/)
 
 Venus is the customer-facing brand of the Fleetpro fleet management platform: a real-time system for tracking and managing 600+ vehicles, devices, and drivers. I lead the design and development of "Venus OS" its cross-platform UI  including the live map with geofencing and POIs, fleet KM analytics, fuel/video/driver hubs, and Venus AI, an integrated assistant that lets operators query vehicle statuses in natural language. (Closed source — happy to walk through the architecture.)
 
@@ -101,7 +101,7 @@ flowchart LR
 
 </details>
 
-####  Gregsveldt Safaris — Safari Booking & Travel Website
+####  [Gregsveldt Safaris — Safari Booking & Travel Website](https://www.gregsveldtafrica.org/)
 
 A safari booking and travel website I designed and built for Gregsveldt Safaris to help travellers, particularly visitors from the UK, discover and book safaris, hotels, beach holidays, transfers, and tailor-made vacations across Kenya.
 
@@ -110,7 +110,7 @@ A safari booking and travel website I designed and built for Gregsveldt Safaris 
   <img src="greg1.png" alt="Gregsveldt Safaris safari booking experience" width="49%" />
 </p>
 
-####  Carpool — Internal Ride & Fleet System
+####  [Carpool — Internal Ride & Fleet System](https://carpool.trackalways.cloud/login)
 
 A fleet-tracking and internal ride-request system built on a NestJS backend, PostgreSQL with PostGIS for spatial queries, Redis for caching, and Traccar Cloud for telematics  with dedicated web and mobile codebases in a structured monorepo.
 
@@ -163,7 +163,7 @@ flowchart TB
 
 </details>
 
-####  Trackalways Africa
+####  [Trackalways Africa](https://trackalwaysafrica.com/)
 
 Official web presence and digital branding for Trackalways Africa. Designed and developed to showcase enterprise fleet telematics, fuel management, and AI-driven tracking solutions across East Africa with a sleek, high-conversion UI and responsive performance.
 
@@ -172,7 +172,7 @@ Official web presence and digital branding for Trackalways Africa. Designed and 
   <img src="Screenshot 2026-07-29 150309.png" alt="Trackalways Africa Web Showcase 2" width="49%" />
 </p>
 
-####  Cirqle Labs
+####  [Cirqle Labs](https://cirqlelabs.vercel.app/)
 
 Modern design studio and software venture landing page built with high-impact micro-interactions, responsive layout systems, and modern UI engineering standards to showcase product design and full-stack development capabilities.
 
@@ -219,7 +219,7 @@ flowchart TB
 
 </details>
 
-####  Kenya Science Leadership Programme
+####  [Kenya Science Leadership Programme](https://www.kenyascienceleadershipprogram.co.ke/)
 
 Web revamp and public-facing digital media assets for a national science leadership programme. 
 
@@ -232,7 +232,7 @@ Web revamp and public-facing digital media assets for a national science leaders
 
 Full-stack student housing app with swipe-to-match discovery and automated in-app payments via the M-Pesa Daraja API (React, Node.js, Supabase).
 
-####  AfriFood
+####  [AfriFood](https://afrifood.vercel.app/)
 
 Web and mobile recipe platform celebrating traditional African cuisine — database-driven with a custom relational schema in Supabase and heavily optimized image rendering.
 
