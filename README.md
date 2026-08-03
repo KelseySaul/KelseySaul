@@ -19,30 +19,45 @@
   </a>
 </p>
 
----
-
 ###  Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend & Design** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![M-Pesa Daraja](https://img.shields.io/badge/M--Pesa_Daraja_API-4CAF50?style=for-the-badge&logo=safaricom&logoColor=white) |
-| **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=00C485) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-| **Mobile** | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white) |
-| **Maps & Telematics** | ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white) ![Traccar](https://img.shields.io/badge/Traccar_Cloud-1E88E5?style=for-the-badge&logo=googlemaps&logoColor=white) |
-| **Deployment & Tools** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+Category
+
+Technologies
+
+Frontend & Design
+
+   
+
+Backend & APIs
+
+  
+
+Databases & Caching
+
+   
+
+Mobile
+
+ 
+
+Maps & Telematics
+
+ 
+
+Deployment & Tools
+
+  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,tailwind,figma,nodejs,nestjs,postgres,supabase,redis,kotlin,vercel,git,github&perline=13" alt="Animated tech stack" />
 </p>
 
----
+📁 Projects
 
-### 📁 Projects
+####  Venus — Fleet Management Platform
 
-####  [Venus — Fleet Management Platform](https://venus.trackalways.cloud/live-map)
-
-Venus is the customer-facing brand of the Fleetpro fleet management platform: a real-time system for tracking and managing 600+ vehicles, devices, and drivers. I lead the design and development of "Venus OS" its cross-platform UI  including the live map with geofencing and POIs, fleet KM analytics, fuel/video/driver hubs, and **Venus AI**, an integrated assistant that lets operators query vehicle statuses in natural language. *(Closed source — happy to walk through the architecture.)*
+Venus is the customer-facing brand of the Fleetpro fleet management platform: a real-time system for tracking and managing 600+ vehicles, devices, and drivers. I lead the design and development of "Venus OS" its cross-platform UI  including the live map with geofencing and POIs, fleet KM analytics, fuel/video/driver hubs, and Venus AI, an integrated assistant that lets operators query vehicle statuses in natural language. (Closed source — happy to walk through the architecture.)
 
 <p align="center">
   <img src="venus-livemap.png" alt="Venus live map tracking 600+ vehicles across Kenya" width="49%" />
@@ -54,7 +69,6 @@ Venus is the customer-facing brand of the Fleetpro fleet management platform: a 
 
 <br/>
 
-```mermaid
 %%{init: {'theme':'base','themeVariables':{'fontFamily':'Segoe UI, sans-serif','fontSize':'15px','primaryColor':'#1f2233','primaryTextColor':'#e6e8f0','primaryBorderColor':'#3a3f5c','lineColor':'#6b7280','clusterBkg':'#16182400','clusterBorder':'#2a2e42','edgeLabelBackground':'#0d0f18'},'flowchart':{'curve':'basis','nodeSpacing':55,'rankSpacing':70,'padding':14}}}%%
 flowchart LR
     GPS["🚗 &nbsp;GPS / Telematics<br/><b>600+ Units</b>"]
@@ -87,22 +101,30 @@ flowchart LR
     class AI ai;
     class PG,GIS data;
     class WEB client;
-```
 
 </details>
 
-####  [Carpool — Internal Ride & Fleet System](https://carpool.trackalways.cloud)
+####  Gregsveldt Safaris — Safari Booking & Travel Website
+
+A safari booking and travel website I designed and built for Gregsveldt Safaris to help travellers, particularly visitors from the UK, discover and book safaris, hotels, beach holidays, transfers, and tailor-made vacations across Kenya.
+
+<p align="center">
+  <img src="greg.png" alt="Gregsveldt Safaris travel website homepage" width="49%" />
+  <img src="greg1.png" alt="Gregsveldt Safaris safari booking experience" width="49%" />
+</p>
+
+####  Carpool — Internal Ride & Fleet System
 
 A fleet-tracking and internal ride-request system built on a NestJS backend, PostgreSQL with PostGIS for spatial queries, Redis for caching, and Traccar Cloud for telematics  with dedicated web and mobile codebases in a structured monorepo.
 
-**Web dashboard**
+Web dashboard
 
 <p align="center">
   <img src="carpool (2).png" alt="Carpool fleet vehicles dashboard with live map" width="49%" />
   <img src="carpool (3).png" alt="Carpool requests overview and reports" width="49%" />
 </p>
 
-**Mobile app**
+Mobile app
 
 <p align="center">
   <img src="carpool (1).png" alt="Carpool trip notifications on mobile" width="28%" height="30%"/>
@@ -115,7 +137,6 @@ A fleet-tracking and internal ride-request system built on a NestJS backend, Pos
 
 <br/>
 
-```mermaid
 %%{init: {'theme':'base','themeVariables':{'fontFamily':'Segoe UI, sans-serif','fontSize':'15px','primaryColor':'#1f2233','primaryTextColor':'#e6e8f0','primaryBorderColor':'#3a3f5c','lineColor':'#6b7280','clusterBkg':'#16182400','clusterBorder':'#2a2e42','edgeLabelBackground':'#0d0f18'},'flowchart':{'curve':'basis','nodeSpacing':60,'rankSpacing':70,'padding':14}}}%%
 flowchart TB
     WEB["🖥️ &nbsp;Web Dashboard"]
@@ -142,11 +163,10 @@ flowchart TB
     class NEST core;
     class REDIS,TRACCAR svc;
     class RIDES,SPATIAL data;
-```
 
 </details>
 
-####  [Trackalways Africa](https://trackalwaysafrica.com/)
+####  Trackalways Africa
 
 Official web presence and digital branding for Trackalways Africa. Designed and developed to showcase enterprise fleet telematics, fuel management, and AI-driven tracking solutions across East Africa with a sleek, high-conversion UI and responsive performance.
 
@@ -155,7 +175,7 @@ Official web presence and digital branding for Trackalways Africa. Designed and 
   <img src="Screenshot 2026-07-29 150309.png" alt="Trackalways Africa Web Showcase 2" width="49%" />
 </p>
 
-####  [Cirqle Labs](https://cirqlelabs.vercel.app/)
+####  Cirqle Labs
 
 Modern design studio and software venture landing page built with high-impact micro-interactions, responsive layout systems, and modern UI engineering standards to showcase product design and full-stack development capabilities.
 
@@ -166,14 +186,13 @@ Modern design studio and software venture landing page built with high-impact mi
 
 ####  Zipp — Payments Super App
 
-A Kenyan payments super app concept with a bold yellow/black/deep-blue brand: send to Zipp users or M-Pesa, Paybill/Till, QR payments, bills, travel booking, and **Palm Pay** palm-vein biometric authentication as its core differentiator. Designed mobile-first with Kotlin and Jetpack Compose in mind.
+A Kenyan payments super app concept with a bold yellow/black/deep-blue brand: send to Zipp users or M-Pesa, Paybill/Till, QR payments, bills, travel booking, and Palm Pay palm-vein biometric authentication as its core differentiator. Designed mobile-first with Kotlin and Jetpack Compose in mind.
 
 <details>
 <summary><b> Architecture Overview</b></summary>
 
 <br/>
 
-```mermaid
 %%{init: {'theme':'base','themeVariables':{'fontFamily':'Segoe UI, sans-serif','fontSize':'15px','primaryColor':'#1f2233','primaryTextColor':'#e6e8f0','primaryBorderColor':'#3a3f5c','lineColor':'#6b7280','clusterBkg':'#16182400','clusterBorder':'#2a2e42','edgeLabelBackground':'#0d0f18'},'flowchart':{'curve':'basis','nodeSpacing':55,'rankSpacing':70,'padding':14}}}%%
 flowchart TB
     UI["📱 &nbsp;Compose UI<br/><i>Kotlin / Jetpack</i>"]
@@ -200,11 +219,10 @@ flowchart TB
     class PALM bio;
     class WALLET,QR,BILLS core;
     class MPESA rails;
-```
 
 </details>
 
-####  [Kenya Science Leadership Programme](https://www.kenyascienceleadershipprogram.co.ke/)
+####  Kenya Science Leadership Programme
 
 Web revamp and public-facing digital media assets for a national science leadership programme. 
 
@@ -213,28 +231,27 @@ Web revamp and public-facing digital media assets for a national science leaders
   <img src="Screenshot 2026-07-29 153851.png" alt="Cirqle Labs Landing Showcase 2" width="49%" />
 </p>
 
-####  [Home Matchmaker](https://realestate-nu-gray.vercel.app/)
+####  Home Matchmaker
 
 Full-stack student housing app with swipe-to-match discovery and automated in-app payments via the M-Pesa Daraja API (React, Node.js, Supabase).
 
-####  [AfriFood](https://afrifood.vercel.app/)
+####  AfriFood
 
 Web and mobile recipe platform celebrating traditional African cuisine — database-driven with a custom relational schema in Supabase and heavily optimized image rendering.
 
 
 
----
-
 ###  About Me
 
-- 🏀 Competitive basketball player when I'm away from the keyboard
-- 🎓 BSc in Business Information Technology, Kabarak University
-- 📜 Certified in Cisco Networking & Cybersecurity (CCNA) and IBM Data & AI Fundamentals
-- 💬 Ask me about UI/UX systems, React state management, M-Pesa integrations, or Kotlin/Compose workflows
+🏀 Competitive basketball player when I'm away from the keyboard
 
----
+🎓 BSc in Business Information Technology, Kabarak University
 
-### 📊 GitHub Stats
+📜 Certified in Cisco Networking & Cybersecurity (CCNA) and IBM Data & AI Fundamentals
+
+💬 Ask me about UI/UX systems, React state management, M-Pesa integrations, or Kotlin/Compose workflows
+
+📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KelseySaul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Kelsey's GitHub Stats" height="165" />
