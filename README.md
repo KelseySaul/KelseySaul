@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://inkwell-sandy.vercel.app/#home">
+  <a href="https://www.kelseysaul.dev/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/kelsey-nakitare-72562b1a8/">
